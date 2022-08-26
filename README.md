@@ -1,7 +1,5 @@
 ﻿# C++ Command Line Calculator
 
-This is an extremely simple calculator I made while learning C++.
-
 Download the repo, compile and run it:
 ```
 $git clone https://github.com/ekubo261/2Modes_Calulator.git
